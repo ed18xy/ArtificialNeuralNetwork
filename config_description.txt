@@ -1,0 +1,10 @@
+random seed
+max epoch
+Size of output vector
+Learning rate 
+Momentum
+Number of hidden layers
+Hidden layer size #1
+Hidden layer size #2
+Hidden layer size #3
+...
